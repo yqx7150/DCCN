@@ -19,14 +19,6 @@ The CNN structure of RDN block in DCCN. The Convolution layers and ReLU layers a
 ### Structure of “Basic CNN Unit”.
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/flow2.png)
 
-## Requirements and Dependencies
-    theano
-    cuda
-    cudnn
-    python3
-    
-## cmd
-'./DCCN.py' is the demo of DCCN.
 
 ### The output images of DCCN. 
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/1.png)  
@@ -41,7 +33,16 @@ Reconstruction results by various methods at 85% 2D random undersampling. Red bo
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/4.png)  
 Reconstruction results by various methods at 85% 1D Cartesian undersampling. Red boxes illustrate the enlarged view. From left to right: Fully-sampled MRI image, udersampling MRI image, NLR-CS, CN-CNN, CN-DenseNet, CN-EDSR, CN-RDN and DCCN.
 
-Previous ISBI Paper
+## Requirements and Dependencies
+    theano
+    cuda
+    cudnn
+    python3
+    
+## cmd
+'./DCCN.py' is the demo of DCCN.
+
+# Previous ISBI Paper
     @article{zeng2019isbi,   
     title=A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction},   
     author={Wei Zeng, Jie Peng, Shanshan Wang, Zhicheng Li, Qiegen Liu, Dong Liang},   
