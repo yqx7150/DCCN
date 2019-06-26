@@ -13,7 +13,7 @@ The progress of convolution neural network (CNN) based Super-resolution (SR) has
 Overall structure of the DCCN. It is composed of five identical basic block cascades; each basic block consists of a CNN (one RDB) and a data consistency layer (DC).
 
 ### The CNN structure of RDN block in DCCN
-<div align=center><img width="600" height="125" src="https://github.com/yqx7150/DCCN/blob/master/flow1.png"/></div>
+<div align=center><img width="600" height="130" src="https://github.com/yqx7150/DCCN/blob/master/flow1.png"/></div>
 The CNN structure of RDN block in DCCN. The Convolution layers and ReLU layers are denoted as “C” and “R”, respectively. The “concat” means all the input data of this layer will be concatenated in the first dimension. 
 
 ### Structure of “Basic CNN Unit”.
