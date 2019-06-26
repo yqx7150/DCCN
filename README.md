@@ -17,7 +17,7 @@ Overall structure of the DCCN. It is composed of five identical basic block casc
 The CNN structure of RDN block in DCCN. The Convolution layers and ReLU layers are denoted as “C” and “R”, respectively. The “concat” means all the input data of this layer will be concatenated in the first dimension. 
 
 ### Structure of “Basic CNN Unit”.
-<div align=center><img width="600" height="80" src="https://github.com/yqx7150/DCCN/blob/master/flow2.png"/></div>
+<div align=center><img width="600" height="90" src="https://github.com/yqx7150/DCCN/blob/master/flow2.png"/></div>
 
 
 # Reconstruction Results of Different Methods. 
