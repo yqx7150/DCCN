@@ -15,7 +15,7 @@ The progress of convolution neural network (CNN) based Super-resolution (SR) has
     theano
     cuda
     cudnn
-    python
+    python3
     
 ## cmd
 './DCCN.py' is the demo of DCCN.
