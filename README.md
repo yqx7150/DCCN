@@ -20,14 +20,12 @@ The progress of convolution neural network (CNN) based Super-resolution (SR) has
 ### The output of DCCN. 
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/models/d5_c5/radial85/epoch1458_im0.png)
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/models/d5_c5/radial85/epoch1458_im1.png)
-![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/models/d5_c5/radial85/epoch1458_im2.png)
-![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/models/d5_c5/radial85/epoch1458_im3.png)
-![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/models/d5_c5/radial85/epoch1458_im4.png)
+
 
 Previous ISBI Paper
-    @article{zeng2019isbi, 
-    title=A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction}, 
-    author={Wei Zeng, Jie Peng, Shanshan Wang, Zhicheng Li, Qiegen Liu, Dong Liang}, 
-    conference={IEEE 16th International Symposium on Biomedical Imaging}, 
-    year={2019}, 
+    @article{zeng2019isbi,  
+    title=A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction},  
+    author={Wei Zeng, Jie Peng, Shanshan Wang, Zhicheng Li, Qiegen Liu, Dong Liang},  
+    conference={IEEE 16th International Symposium on Biomedical Imaging},  
+    year={2019},  
     }
