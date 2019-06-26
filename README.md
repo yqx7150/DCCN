@@ -20,7 +20,7 @@ The CNN structure of RDN block in DCCN. The Convolution layers and ReLU layers a
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/flow2.png)
 
 
-### Reconstruction Results of Different Methods. 
+# Reconstruction Results of Different Methods. 
 ![repeat-DCCN](https://github.com/yqx7150/DCCN/blob/master/1.png)  
 Reconstruction results by various methods at 80% Pseudo radial undersampling. Red boxes illustrate the enlarged view. From left to right: Fully-sampled MRI image, udersampling MRI image, NLR-CS, CN-CNN, CN-DenseNet, CN-EDSR, CN-RDN and DCCN.
 
