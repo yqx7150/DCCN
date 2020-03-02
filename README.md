@@ -1,7 +1,7 @@
 # DCCN
 The Code is created based on the method described in the following paper:  
-W. Zeng, J. Peng, S. Wang, Q. Liu, A comparative study of CNN-based super-resolution methods in MRI reconstruction and its beyond,     
-Signal Processing: Image Communication, vol. 81, 2020.      
+A comparative study of CNN-based super-resolution methods in MRI reconstruction and its beyond,     
+W. Zeng, J. Peng, S. Wang, Q. Liu, Signal Processing: Image Communication, vol. 81, 2020.      
 https://doi.org/10.1016/j.image.2019.115701.    
 
 # Our Previous ISBI Paper
