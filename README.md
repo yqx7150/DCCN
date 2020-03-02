@@ -56,4 +56,5 @@ Reconstruction results by various methods at 85% 1D Cartesian undersampling. Red
   * IFR-Net: Iterative Feature Refinement Network for Compressed Sensing MRI [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8918016)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IFR-Net-Code)
     
   * Iterative scheme-inspired network for impulse noise removal [<font size=5>**[Paper]**</font>](https://link.springer.com/article/10.1007/s10044-018-0762-8)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IIN-Code)
-
+    
+  * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet)
