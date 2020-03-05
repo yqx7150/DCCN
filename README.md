@@ -60,3 +60,5 @@ Reconstruction results by various methods at 85% 1D Cartesian undersampling. Red
   * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Paper]**</font>](http://archive.ismrm.org/2018/0773.html)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet) 
   
   * VST-Net: Variance-stabilizing transformation inspired network for Poisson denoising [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320319301439)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/VST-Net)
+
+  * Complex-valued MRI data from SIAT   [<font size=5>**[Data]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/test_data_31)
