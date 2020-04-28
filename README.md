@@ -57,7 +57,7 @@ Reconstruction results by various methods at 85% 1D Cartesian undersampling. Red
     
   * Iterative scheme-inspired network for impulse noise removal [<font size=5>**[Paper]**</font>](https://link.springer.com/article/10.1007/s10044-018-0762-8)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IIN-Code)
     
-  * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Paper]**</font>](http://archive.ismrm.org/2018/0773.html)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet) 
+  * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Paper1]**</font>](http://archive.ismrm.org/2018/0773.html)   [<font size=5>**[Paper2]**</font>](https://doi.org/10.1016/j.mri.2020.04.006)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet) 
   
   * VST-Net: Variance-stabilizing transformation inspired network for Poisson denoising [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320319301439)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/VST-Net)
 
